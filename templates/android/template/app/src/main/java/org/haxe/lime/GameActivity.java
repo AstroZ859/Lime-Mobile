@@ -24,7 +24,7 @@ import java.util.List;
 
 
 public class GameActivity extends SDLActivity {
-
+	private static final int FILE_SELECT_CODE = 1234;
 
 	private static AssetManager assetManager;
 	private static List<Extension> extensions;
